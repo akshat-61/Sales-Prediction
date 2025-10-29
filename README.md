@@ -13,5 +13,6 @@ Second Most Important: Radio advertising also shows a strong, positive relations
 
 Least Important: Newspaper advertising was found to have almost no statistical impact on sales in this model.
 
-#In summary: 
+#In summary:
+
 The model is highly accurate (90% R²). Its output clearly shows that TV and Radio ad spending are excellent predictors of sales, while Newspaper spending is not.
